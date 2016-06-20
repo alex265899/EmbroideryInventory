@@ -1,0 +1,15 @@
+In order to use QT Designer windows in python, you must use PyQt to reformat them. Otherwise, you will be stuck with a C program.
+
+first, change your directory to where your UI is.
+
+then type (for windows):
+    "pyuic4 -o outputFileName.py inputFileName.ui"
+
+NOTE:
+    code is rewritten every time pyuic4 is run!!
+
+QtCore & QtGUI: Main Modules!!!
+
+class Ui_Form = Ui Code!
+setup() = Create UI
+retranslate() = Set attributes
