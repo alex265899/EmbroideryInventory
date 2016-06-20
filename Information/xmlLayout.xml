@@ -1,0 +1,153 @@
+﻿<inventory>
+	<item>
+		<category>animals</category>
+	</item>
+
+	<item>
+		<category>ballerina</category>
+	</item>
+
+	<item>
+		<category>beauty/girly</category>
+	</item>
+
+	<item>
+		<category>birds/roosters</category>
+	</item>
+
+	<item>
+		<category>butterflies</category>
+	</item>
+
+	<item>
+		<category>cake/pie</category>
+	</item>
+
+	<item>
+		<category>candy</category>
+	</item>
+
+	<item>
+		<category>cats</category>
+	</item>
+
+	<item>
+		<category>cupcakes</category>
+	</item>
+
+	<item>
+		<category>dogs</category>
+	</item>
+
+	<item>
+		<category>misc.</category>
+	</item>
+
+	<item>
+		<category>flowers/gardening</category>
+	</item>
+
+	<item>
+		<category>fonts</category>
+	</item>
+
+	<item>
+		<category>fruits/vegetables</category>
+	</item>
+
+	<item>
+		<category>football</category>
+	</item>
+
+	<item>
+		<category>frogs/bugs</category>
+	</item>
+
+	<item>
+		<category>garden</category>
+	</item>
+
+	<item>
+		<category>golf</category>
+	</item>
+
+	<item>
+		<category>hats</category>
+	</item>
+
+	<item>
+		<category>ice cream </category>
+	</item>
+
+	<item>
+		<category>kitchen</category>
+	</item>
+
+	<item>
+		<category>ladybugs</category>
+	</item>
+
+	<item>
+		<category>mono's and frames</category>
+	</item>
+
+	<item>
+		<category>sea and nautical</category>
+	</item>
+
+	<item>
+		<category>owls</category>
+	</item>
+
+	<item>
+		<category>princess and fairy</category>
+	</item>
+
+	<item>
+		<category>religious</category>
+	</item>
+
+	<item>
+		<category>school</category>
+	</item>
+
+	<item>
+		<category>sewing fun</category>
+	</item>
+
+	<item>
+		<category>shoes</category>
+	</item>
+
+	<item>
+		<category>steam punk</category>
+	</item>
+
+	<item>
+		<category>summer</category>
+	</item>
+
+	<item>
+		<category>tea and coffee</category>
+	</item>
+
+	<item>
+		<category>tooth fairy</category>
+	</item>
+
+	<item>
+		<category>umbrellas</category>
+	</item>
+
+	<item>
+		<category>unicorns</category>
+	</item>
+
+	<item>
+		<category>western</category>
+	</item>
+
+	<item>
+		<category>wizard of oz</category>
+	</item>
+</inventory>
